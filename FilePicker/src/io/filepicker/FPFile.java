@@ -6,9 +6,6 @@ import org.json.JSONObject;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import java.net.MalformedURLException;
-import java.net.URL;
-
 public class FPFile implements Parcelable {
 
     private final String localpath;
